@@ -1,0 +1,10 @@
+TypeScript and Vite production build: PASS
+Android web asset sync and byte-for-byte production asset comparison: PASS
+Desktop layout at 1357px and about 1024px, and phone layout at about 390px: PASS
+Automatic fallback artwork and Matcha selection: PASS
+Interactive 3D rendering: requires a WebGL-enabled browser
+Updated Android APK build and device validation: pending
+Coffee bean update: five beans visible in the desktop and phone fallback.
+3D bean geometry fits both stage ratios across the existing camera presets and drag limits.
+Restored first cup: original heart artwork, five beans, automatic preview, and flavor selection checked on desktop and phone.
+Original 3D cup, handle, and saucer geometry fit the existing camera presets at both stage ratios.
